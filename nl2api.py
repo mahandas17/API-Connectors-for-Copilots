@@ -3,81 +3,19 @@ import os
 import json
 import openai
 import gradio as gr
+from api_mappings import MAPPER
 
 # Get the value of the openai_api_key from environment variable
-openai.api_key = "OPEN AI KEY"
-KEY = "VIRUS TOTSL KEY"
-import virustotal_python
-from pprint import pprint
+openai.api_key = os.environ.get("OPENAI_API_KEY")
+KEY = os.environ.get("VIRUSTOTAL_API_KEY")
+print(KEY)
 from base64 import urlsafe_b64encode
 import os.path
-
-
-def scan_url(url:str)-> str: 
-    """Send a file for analysis 
-
-    Args:
-        URL (str): The URL that needs scanning
-
-    Returns:
-        str: a json string that contains details of whether a URL is malicious or not
-    """
-    with virustotal_python.Virustotal(KEY) as vtotal:
-        try:
-            #resp = vtotal.request("urls", data={"url": url}, method="POST")
-            # Safe encode URL in base64 format
-            # https://developers.virustotal.com/reference/url
-            url_id = urlsafe_b64encode(url.encode()).decode().strip("=")
-            report = vtotal.request(f"urls/{url_id}")
-            return(report.data)
-        except virustotal_python.VirustotalError as err:
-            print(f"Failed to send URL: {url} for analysis and get the report: {err}")
-
-def check_domain(domain:str)->str:
-    """Get information about a domain
-
-    Args:
-        domain (str): domain for which information is needed
-
-    Returns:
-        str: _description_
-    """
-    with virustotal_python.Virustotal(KEY) as vtotal:
-        resp = vtotal.request(f"domains/{domain}")
-        return(resp.data)
-
-
-MAPPER = {
-
-            "scan_url":[{
-                "name": "scan_url",
-                "description": "Scan a URL for analysis ",
-                "parameters": {
-                    "type": "object",
-                    "properties": {
-                        "url": {"type": "string", "format": "date"}
-                    },
-                    "required": ["url"],
-                },
-            }, scan_url],
-            "check_domain":[{
-                "name": "check_domain",
-                "description": "Get information about a domain",
-                "parameters": {
-                    "type": "object",
-                    "properties": {
-                        "domain": {"type": "string"},
-                    },
-                    "required": ["domain"],
-                },
-            }, check_domain]
-}
 
 FUNCTIONS = [x[0] for x in MAPPER.values()]
 
 def run_functioncalling(messages):
     # STEP1: Get user Input to Model
-    
     response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo-0613",
         messages=messages,
