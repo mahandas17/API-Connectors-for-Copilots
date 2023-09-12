@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "description": "Provides a summary of tasks so it can be shared with a user in a human readable format.",
+  "type": "completion",
+  "completion": {
+    "max_tokens": 1000,
+    "temperature": 0.9,
+    "top_p": 0.0,
+    "presence_penalty": 0.0,
+    "frequency_penalty": 0.0
+  },
+  "input": {
+    "parameters": [
+      {
+        "name": "input",
+        "description": "A string that contains a list of tasks to summarize",
+        "defaultValue": ""
+      }
+    ]
+  }
+}

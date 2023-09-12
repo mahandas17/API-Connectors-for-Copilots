@@ -1,0 +1,10 @@
+﻿[INSTRUCTIONS]
+Sort the task based what you think is most important to do first.
+Please make sure any task related to wife is top most in the list.
+Summarize the task list with the reason for the sorting task in the priority.
+Mark the items which are related to family members as (Important).
+
+[TASKS]
+{{$input}}
+
+[Summary]

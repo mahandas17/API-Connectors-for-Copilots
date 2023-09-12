@@ -1,0 +1,20 @@
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\semantic-functions-generator\bin\Debug\netstandard2.0\semantic-functions-generator.deps.json
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\semantic-functions-generator\bin\Debug\netstandard2.0\semantic-functions-generator.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\semantic-functions-generator\bin\Debug\netstandard2.0\semantic-functions-generator.pdb
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\semantic-functions-generator\obj\Debug\netstandard2.0\semantic-functions-generator.csproj.AssemblyReference.cache
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\semantic-functions-generator\obj\Debug\netstandard2.0\semantic-functions-generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\semantic-functions-generator\obj\Debug\netstandard2.0\semantic-functions-generator.AssemblyInfoInputs.cache
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\semantic-functions-generator\obj\Debug\netstandard2.0\semantic-functions-generator.AssemblyInfo.cs
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\semantic-functions-generator\obj\Debug\netstandard2.0\semantic-functions-generator.csproj.CoreCompileInputs.cache
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\semantic-functions-generator\obj\Debug\netstandard2.0\semantic-functions-generator.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\semantic-functions-generator\obj\Debug\netstandard2.0\semantic-functions-generator.pdb
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\semantic-functions-generator\bin\Debug\netstandard2.0\semantic-functions-generator.deps.json
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\semantic-functions-generator\bin\Debug\netstandard2.0\semantic-functions-generator.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\semantic-functions-generator\bin\Debug\netstandard2.0\semantic-functions-generator.pdb
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\semantic-functions-generator\obj\Debug\netstandard2.0\semantic-functions-generator.csproj.AssemblyReference.cache
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\semantic-functions-generator\obj\Debug\netstandard2.0\semantic-functions-generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\semantic-functions-generator\obj\Debug\netstandard2.0\semantic-functions-generator.AssemblyInfoInputs.cache
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\semantic-functions-generator\obj\Debug\netstandard2.0\semantic-functions-generator.AssemblyInfo.cs
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\semantic-functions-generator\obj\Debug\netstandard2.0\semantic-functions-generator.csproj.CoreCompileInputs.cache
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\semantic-functions-generator\obj\Debug\netstandard2.0\semantic-functions-generator.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\semantic-functions-generator\obj\Debug\netstandard2.0\semantic-functions-generator.pdb
