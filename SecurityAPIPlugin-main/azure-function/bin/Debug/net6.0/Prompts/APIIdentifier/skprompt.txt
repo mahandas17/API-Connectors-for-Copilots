@@ -1,0 +1,7 @@
+﻿[INSTRUCTION]
+Identify the right available API to call based on the user input. Only recommend the API from : {{$options}}.
+If no matching API found repose with "No compatible API found"
+
+User : {{$input}}
+
+API:

@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "description": "Based on the user query identify the API to call.",
+  "type": "completion",
+  "completion": {
+    "max_tokens": 1000,
+    "temperature": 0.0,
+    "top_p": 0.0,
+    "presence_penalty": 0.0,
+    "frequency_penalty": 0.0
+  },
+  "input": {
+    "parameters": [
+      {
+        "name": "input",
+        "description": "User query used to understand the ask.",
+        "defaultValue": ""
+      },
+      {
+        "name": "options",
+        "description": "The list of API to choose from",
+        "defaultValue": "1.Email_API - This API is used to check email related information, 2.Security_API - This API is used to check security related information,3.User_API - This API is used to check user related information"
+      }
+    ]
+  }
+}

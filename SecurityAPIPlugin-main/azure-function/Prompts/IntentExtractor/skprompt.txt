@@ -1,0 +1,7 @@
+﻿[INSTRUCTIONS]
+Based on input below identify the user intent from {{$options}}
+
+[INTENT]
+{{$input}}
+
+[Intent]
