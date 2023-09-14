@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "type": "completion",
+  "description": "Gets the user input and respond back with the user intent.",
+  "completion": {
+    "max_tokens": 500,
+    "temperature": 0.0,
+    "top_p": 0.0,
+    "presence_penalty": 0.0,
+    "frequency_penalty": 0.0
+  },
+  "input": {
+    "parameters": [
+      {
+        "name": "input",
+        "description": "The user's request.",
+        "defaultValue": ""
+      },
+      {
+        "name": "options",
+        "description": "List of various intents",
+        "defaultValue": "SecurityInsight: To get the insight on current sate of security,EdgeInsight:To get insight on thedevices.3.ComplianceInsight: To get insight on compliance and privacy."
+      }
+    ]
+  }
+}

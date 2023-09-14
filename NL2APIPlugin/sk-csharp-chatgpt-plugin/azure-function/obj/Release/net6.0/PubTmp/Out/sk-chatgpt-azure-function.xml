@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>sk-chatgpt-azure-function</name>
+    </assembly>
+    <members>
+        <member name="M:AIPlugins.AzureFunctions.Extensions.AIPluginRunner.RunAIPluginOperationAsync(Microsoft.Azure.Functions.Worker.Http.HttpRequestData,System.String)">
+            <summary>
+            Runs a semantic function using the operationID and returns back an HTTP response.
+            </summary>
+            <param name="req"></param>
+            <param name="operationId"></param>
+        </member>
+        <member name="M:AIPlugins.AzureFunctions.Extensions.AIPluginRunner.LoadContextVariablesFromRequest(Microsoft.Azure.Functions.Worker.Http.HttpRequestData)">
+            <summary>
+            Grabs the context variables to send to the semantic function from the original HTTP request.
+            </summary>
+            <param name="req"></param>
+        </member>
+        <member name="M:KernelBuilderExtensions.WithChatCompletionService(Microsoft.SemanticKernel.KernelBuilder,Models.KernelSettings)">
+            <summary>
+            Adds a chat completion service to the list. It can be either an OpenAI or Azure OpenAI backend service.
+            </summary>
+            <param name="kernelBuilder"></param>
+            <param name="kernelSettings"></param>
+            <exception cref="T:System.ArgumentException"></exception>
+        </member>
+        <member name="M:Models.AppSettings.LoadSettings">
+            <summary>
+            Load the kernel settings from settings.json if the file exists and if not attempt to use user secrets.
+            </summary>
+        </member>
+        <member name="M:Models.AppSettings.FromFile(System.String)">
+            <summary>
+            Load the kernel settings from the specified configuration file if it exists.
+            </summary>
+        </member>
+        <member name="M:Models.AppSettings.GetApiKey">
+            <summary>
+            Load the API key for the AI endpoint from user secrets.
+            </summary>
+        </member>
+    </members>
+</doc>

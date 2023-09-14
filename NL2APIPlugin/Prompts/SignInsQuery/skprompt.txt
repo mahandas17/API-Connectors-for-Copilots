@@ -1,0 +1,24 @@
+
+    [INSTRUCTIONS]
+    Generate a Microsoft Graph API based Odata query To retrieve the azure activity directory sign ins that took place in the tenant based on the user input below
+    {{$input}}
+
+    Format the response in JSON format as below 
+    {
+    "HttpRequestType":"type",
+    "ODataQuery":"query"
+    }
+
+    Allowed Odata parameters are $top, $skiptoken and $filter"
+
+    For Example: 
+    User Input = Get the SignIns information for John Smith
+    [Response]
+    {
+    "HttpRequestType":"GET",
+    "ODataQuery":"https://graph.microsoft.com/v1.0//auditLogs/signIns?$filter=displayName eq 'John Smith'"
+    }
+
+
+    [Response]
+    

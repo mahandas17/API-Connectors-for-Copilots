@@ -1,0 +1,24 @@
+
+    [INSTRUCTIONS]
+    Generate a Microsoft Graph API based Odata query To get all the security alerts that have been fired by various vendors based on the user input below
+    {{$input}}
+
+    Format the response in JSON format as below 
+    {
+    "HttpRequestType":"type",
+    "ODataQuery":"query"
+    }
+
+    Allowed Odata parameters are $count, $orderby, $select, $skip, $top & $filter"
+
+    For Example: 
+    User Input = Get the Alerts information for John Smith
+    [Response]
+    {
+    "HttpRequestType":"GET",
+    "ODataQuery":"https://graph.microsoft.com/v1.0//security/alerts?$filter=displayName eq 'John Smith'"
+    }
+
+
+    [Response]
+    

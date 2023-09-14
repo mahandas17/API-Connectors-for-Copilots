@@ -1,0 +1,473 @@
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Tokenizers\Settings\encoder.json
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Tokenizers\Settings\vocab.bpe
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\appsettings.json
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\host.json
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Prompts\Joke\config.json
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Prompts\Joke\skprompt.txt
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Prompts\SummarizeWikiText\config.json
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Prompts\SummarizeWikiText\skprompt.txt
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\sk-chatgpt-azure-function.exe
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\sk-chatgpt-azure-function.deps.json
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\sk-chatgpt-azure-function.runtimeconfig.json
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\sk-chatgpt-azure-function.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\sk-chatgpt-azure-function.pdb
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\sk-chatgpt-azure-function.xml
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Azure.AI.OpenAI.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Azure.Core.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Google.Protobuf.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Grpc.Core.Api.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Grpc.Net.Client.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Grpc.Net.ClientFactory.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Grpc.Net.Common.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Net.Http.Formatting.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.Core.NewtonsoftJson.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.Functions.Worker.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.Functions.Worker.Core.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.Functions.Worker.Extensions.Abstractions.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.Functions.Worker.Extensions.Http.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.Functions.Worker.Extensions.OpenApi.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.Functions.Worker.Grpc.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.WebJobs.Host.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.WebJobs.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.WebJobs.Extensions.Http.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.WebJobs.Extensions.OpenApi.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.WebJobs.Extensions.OpenApi.Configuration.AppSettings.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.WebJobs.Extensions.OpenApi.Core.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.WebJobs.Script.Abstractions.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Bcl.HashCode.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.CodeAnalysis.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.SemanticKernel.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.SemanticKernel.Abstractions.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.SemanticKernel.Connectors.AI.OpenAI.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.SemanticKernel.Core.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.SemanticKernel.Planning.ActionPlanner.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.SemanticKernel.Planning.SequentialPlanner.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.SemanticKernel.Skills.Core.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Composition.AttributedModel.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Composition.Convention.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Composition.Hosting.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Composition.Runtime.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Composition.TypedParts.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Memory.Data.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Text.Json.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\YamlDotNet.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.csproj.AssemblyReference.cache
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.AssemblyInfoInputs.cache
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.AssemblyInfo.cs
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.csproj.CoreCompileInputs.cache
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.csproj.CopyComplete
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\refint\sk-chatgpt-azure-function.dll
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.xml
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.pdb
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.genruntimeconfig.cache
+C:\repos\MyFirstPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\ref\sk-chatgpt-azure-function.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Tokenizers\Settings\encoder.json
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Tokenizers\Settings\vocab.bpe
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\host.json
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\appsettings.json
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Prompts\SummarizeToDoList\config.json
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Prompts\SummarizeToDoList\skprompt.txt
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\sk-chatgpt-azure-function.exe
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\sk-chatgpt-azure-function.deps.json
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\sk-chatgpt-azure-function.runtimeconfig.json
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\sk-chatgpt-azure-function.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\sk-chatgpt-azure-function.pdb
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\sk-chatgpt-azure-function.xml
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Azure.AI.OpenAI.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Azure.Core.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Google.Protobuf.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Grpc.Core.Api.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Grpc.Net.Client.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Grpc.Net.ClientFactory.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Grpc.Net.Common.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Net.Http.Formatting.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.Core.NewtonsoftJson.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.Functions.Worker.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.Functions.Worker.Core.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.Functions.Worker.Extensions.Abstractions.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.Functions.Worker.Extensions.Http.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.Functions.Worker.Extensions.OpenApi.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.Functions.Worker.Grpc.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.WebJobs.Host.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.WebJobs.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.WebJobs.Extensions.Http.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.WebJobs.Extensions.OpenApi.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.WebJobs.Extensions.OpenApi.Configuration.AppSettings.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.WebJobs.Extensions.OpenApi.Core.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.WebJobs.Script.Abstractions.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Bcl.HashCode.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.CodeAnalysis.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.SemanticKernel.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.SemanticKernel.Abstractions.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.SemanticKernel.Connectors.AI.OpenAI.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.SemanticKernel.Core.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.SemanticKernel.Planning.ActionPlanner.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.SemanticKernel.Planning.SequentialPlanner.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.SemanticKernel.Skills.Core.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Composition.AttributedModel.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Composition.Convention.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Composition.Hosting.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Composition.Runtime.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Composition.TypedParts.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Memory.Data.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Text.Json.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\YamlDotNet.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.csproj.AssemblyReference.cache
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.AssemblyInfoInputs.cache
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.AssemblyInfo.cs
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.csproj.CoreCompileInputs.cache
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.csproj.CopyComplete
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\refint\sk-chatgpt-azure-function.dll
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.xml
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.pdb
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.genruntimeconfig.cache
+C:\repos\CoPilot Demo\ToDoPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\ref\sk-chatgpt-azure-function.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Tokenizers\Settings\encoder.json
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Tokenizers\Settings\vocab.bpe
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\host.json
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\appsettings.json
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Prompts\UserQuery\config.json
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Prompts\UserQuery\skprompt.txt
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\sk-chatgpt-azure-function.exe
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\sk-chatgpt-azure-function.deps.json
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\sk-chatgpt-azure-function.runtimeconfig.json
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\sk-chatgpt-azure-function.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\sk-chatgpt-azure-function.pdb
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\sk-chatgpt-azure-function.xml
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Azure.AI.OpenAI.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Azure.Core.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Google.Protobuf.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Grpc.Core.Api.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Grpc.Net.Client.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Grpc.Net.ClientFactory.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Grpc.Net.Common.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Net.Http.Formatting.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.Core.NewtonsoftJson.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.Functions.Worker.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.Functions.Worker.Core.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.Functions.Worker.Extensions.Abstractions.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.Functions.Worker.Extensions.Http.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.Functions.Worker.Extensions.OpenApi.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.Functions.Worker.Grpc.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.WebJobs.Host.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.WebJobs.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.WebJobs.Extensions.Http.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.WebJobs.Extensions.OpenApi.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.WebJobs.Extensions.OpenApi.Configuration.AppSettings.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.WebJobs.Extensions.OpenApi.Core.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Azure.WebJobs.Script.Abstractions.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Bcl.HashCode.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.CodeAnalysis.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.SemanticKernel.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.SemanticKernel.Abstractions.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.SemanticKernel.Connectors.AI.OpenAI.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.SemanticKernel.Core.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.SemanticKernel.Planning.ActionPlanner.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.SemanticKernel.Planning.SequentialPlanner.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Microsoft.SemanticKernel.Skills.Core.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Composition.AttributedModel.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Composition.Convention.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Composition.Hosting.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Composition.Runtime.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Composition.TypedParts.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Memory.Data.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\System.Text.Json.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\YamlDotNet.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\bin\Release\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.csproj.AssemblyReference.cache
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.AssemblyInfoInputs.cache
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.AssemblyInfo.cs
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.csproj.CoreCompileInputs.cache
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.csproj.CopyComplete
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\refint\sk-chatgpt-azure-function.dll
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.xml
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.pdb
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\sk-chatgpt-azure-function.genruntimeconfig.cache
+C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\ref\sk-chatgpt-azure-function.dll

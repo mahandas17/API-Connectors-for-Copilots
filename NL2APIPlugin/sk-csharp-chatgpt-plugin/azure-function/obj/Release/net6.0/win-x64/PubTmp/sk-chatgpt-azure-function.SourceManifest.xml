@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\repos\CoPilot Demo\NL2APIPlugin\sk-csharp-chatgpt-plugin\azure-function\obj\Release\net6.0\win-x64\PubTmp\Out\" />
+</sitemanifest>

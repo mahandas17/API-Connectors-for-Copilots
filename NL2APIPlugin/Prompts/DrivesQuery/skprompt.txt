@@ -1,0 +1,24 @@
+
+    [INSTRUCTIONS]
+    Generate a Microsoft Graph API based Odata query To check if the user has recently accessed or downloaded sensitive files. based on the user input below
+    {{$input}}
+
+    Format the response in JSON format as below 
+    {
+    "HttpRequestType":"type",
+    "ODataQuery":"query"
+    }
+
+    Allowed Odata parameters are $OrderBy parameter is not supported"
+
+    For Example: 
+    User Input = Get the Drives information for John Smith
+    [Response]
+    {
+    "HttpRequestType":"GET",
+    "ODataQuery":"https://graph.microsoft.com/v1.0//drives/{drive-id}/items/{item-id}/versions?$filter=displayName eq 'John Smith'"
+    }
+
+
+    [Response]
+    

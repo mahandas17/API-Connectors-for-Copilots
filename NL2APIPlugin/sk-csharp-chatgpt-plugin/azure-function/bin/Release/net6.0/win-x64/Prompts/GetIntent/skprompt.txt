@@ -1,0 +1,8 @@
+﻿User: {{$input}}
+---------------------------------------------
+
+Provide the intent of the user. The intent should be one of the following: {{$options}}
+
+Respond back with the user's intent in one word. For example SecurityInsight, EdgeInsight, ComplianceInsight.
+
+INTENT:

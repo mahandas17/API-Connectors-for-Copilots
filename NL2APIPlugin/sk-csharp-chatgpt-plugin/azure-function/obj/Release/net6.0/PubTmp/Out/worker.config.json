@@ -1,0 +1,9 @@
+{
+  "description": {
+    "language": "dotnet-isolated",
+    "extensions": [ ".dll" ],
+    "defaultExecutablePath": "dotnet",
+    "defaultWorkerPath": "sk-chatgpt-azure-function.dll",
+    "workerIndexing": "false"
+  }
+}
